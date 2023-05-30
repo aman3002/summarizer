@@ -12,4 +12,4 @@ Easy Integration: Can be easily integrated into existing applications or used as
 pip install beautifulsoup
 pip install nltk
 pip install urllib
-# happy summarizing
+# happy summarizing ;
